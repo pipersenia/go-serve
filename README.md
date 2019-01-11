@@ -1,2 +1,2 @@
 # go-serve
-Web server in Go
+Simple web server in Go
